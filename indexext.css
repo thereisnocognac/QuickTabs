@@ -19,6 +19,7 @@ button {
     padding: 10px 20px;
     border: none;
     font-weight: bold;
+    cursor: pointer;
 }
 
 /* Style the button according to the provided design */
